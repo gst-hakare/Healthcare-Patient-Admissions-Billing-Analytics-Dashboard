@@ -43,6 +43,6 @@ This project explores:
 ---
 
 ## 📂 Project Structure
-├── healthcare_Analysis_Dashboard.xlsx   # Main interactive Excel workbook
-├── Healtcare_analysis_dashboard.png # High-resolution screenshot of the dashboard
+├── healthcare_Analysis_Dashboard.xlsx   # Main interactive Excel workbook<br>
+├── Healtcare_analysis_dashboard.png # High-resolution screenshot of the dashboard<br>
 └── README.md                             # Project documentation
